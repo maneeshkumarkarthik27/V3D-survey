@@ -1,0 +1,6 @@
+{
+  "name": "V3D Field Survey",
+  "description": "3D Property Survey & Spatial Registration field surveyor companion application for 3D ULPIN generation and vertical property mapping.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
